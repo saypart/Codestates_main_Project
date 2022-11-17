@@ -117,9 +117,6 @@ include::{snippets}/get-review/curl-request.adoc[]
 .http-request
 include::{snippets}/get-review/http-request.adoc[]
 
-.request-fields
-include::{snippets}/get-review/request-fields.adoc[]
-
 .http-response
 include::{snippets}/get-review/http-response.adoc[]
 
